@@ -85,7 +85,7 @@ By analyzing these KPIs and trends, the project can help businesses:
 - The project also improved data quality by standardizing inconsistent categorical values before analysis, ensuring more accurate reporting and visualization.
 
 # Dashboard Preview
-(BlinkIt Dashboard.png)
+![Dashboard Screenshot](BlinkIt Dashboard.png)
 
 # Conclusion
 This project helped me understand how SQL and Power BI can be combined to solve real-world retail business problems using data analytics and visualization techniques. 
