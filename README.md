@@ -4,7 +4,7 @@
 This project focuses on analyzing Blinkit's retail sales data using SQL Server and Power BI. The goal of this project is to identify key business insights related to sales performance, customer preferences,
 outlet efficiency, and inventory distribution through KPI analysis and interactive dashboards.
 
-# Tools & Technologies Used
+## Tools & Technologies Used
 
 - SQL Server Management Studio (SSMS)
 - SQL
@@ -19,11 +19,11 @@ outlet efficiency, and inventory distribution through KPI analysis and interacti
 - Business Insight Extraction
 - Dashboard Visualization
 
-# Why I Chose This Project
+## Why I Chose This Project
 “I chose the Blinkit Sales Analysis project because it represents a real-world retail and quick-commerce business scenario where large amounts of transactional data are generated daily. I wanted to work on a project that combines data cleaning, SQL analysis, KPI generation, and business insight extraction rather than only basic queries.
 This project helped me understand how businesses monitor sales performance, customer preferences, outlet performance, and inventory trends using SQL. Since Blinkit operates in the fast-moving consumer goods domain, it was a good dataset to practice solving practical business problems using data analytics techniques.”
 
-# What business problem does it solve?
+## What business problem does it solve?
 The main business problem solved by this project is identifying factors that affect sales performance and outlet efficiency.
 
 ## 1. Data Cleaning
@@ -77,7 +77,7 @@ identify high-performing product categories,and improve overall revenue generati
 
 - The dashboard enables interactive filtering and comparison across outlet types, outlet sizes, item categories, and outlet locations for deeper business analysis.
 
-# Business Outcome
+## Business Outcome
 
 This project transformed raw retail sales data into meaningful business insights that can support better decision-making for Blinkit.
 
@@ -98,7 +98,7 @@ By analyzing these KPIs and trends, the project can help businesses:
 - Improve overall operational efficiency
 - The project also improved data quality by standardizing inconsistent categorical values before analysis, ensuring more accurate reporting and visualization.
 
-# Dashboard Preview
+## Dashboard Preview
 <img width="1352" height="742" alt="Screenshot 2026-05-21 165337" src="https://github.com/user-attachments/assets/6f853f08-77ce-478e-af9f-f44ec41cf1ef" />
 
 
