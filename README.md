@@ -12,7 +12,7 @@ outlet efficiency, and inventory distribution through KPI analysis and interacti
 - CSV Dataset
 - Data Cleaning
 - Data Visualization
-# The project demonstrates a complete end-to-end data analytics workflow including:
+ The project demonstrates a complete end-to-end data analytics workflow including:
 - Data Cleaning
 - SQL Analysis
 - KPI Generation
