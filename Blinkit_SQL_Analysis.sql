@@ -6,7 +6,7 @@ SELECT * FROM dbo.Blinkit_data
 
 select count(*) from  Blinkit_data --counting all rows
 UPDATE blinkit_data
-SET Item_Fat_Content =              --ìStandardizes inconsistent fat content labelsî
+SET Item_Fat_Content =              --‚ÄúStandardizes inconsistent fat content labels‚Äù
 CASE 
 WHEN Item_Fat_Content IN ('LF', 'low fat') THEN 'Low Fat'
 WHEN Item_Fat_Content = 'reg' THEN 'Regular'
@@ -17,11 +17,11 @@ SELECT DISTINCT(Item_Fat_Content) FROM blinkit_data
 
 SELECT * FROM blinkit_data
 
-SELECT CAST(SUM(Sales)/ 1000000 AS DECIMAL(10,2)) AS Total_Sales_Millions  --ìCalculates 2022 total sales revenueî 
+SELECT CAST(SUM(Sales)/ 1000000 AS DECIMAL(10,2)) AS Total_Sales_Millions  --‚ÄúCalculates 2022 total sales revenue‚Äù 
 FROM blinkit_data 
 WHERE Outlet_Establishment_Year = 2022
 
-SELECT CAST(AVG(Sales) AS DECIMAL(10,1)) AS Avg_Sales FROM blinkit_data  --Calculates average sales for 2022î
+SELECT CAST(AVG(Sales) AS DECIMAL(10,1)) AS Avg_Sales FROM blinkit_data  --Calculates average sales for 2022‚Äù
 WHERE Outlet_Establishment_Year = 2022
 
 SELECT COUNT(*) AS No_Of_Items FROM blinkit_data --items sold in 2022
