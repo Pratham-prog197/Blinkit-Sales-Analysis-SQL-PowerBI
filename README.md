@@ -63,6 +63,20 @@ Created an interactive Power BI dashboard to visualize:
 The insights from this project can help management improve inventory planning, optimize outlet operations, 
 identify high-performing product categories,and improve overall revenue generation.
 
+# SQL Concepts Used
+
+- CASE Statements
+- Aggregate Functions
+- GROUP BY
+- ORDER BY
+- CAST Function
+- Window Functions
+- PIVOT Tables
+- KPI Calculations
+- Data Cleaning Queries
+
+- The dashboard enables interactive filtering and comparison across outlet types, outlet sizes, item categories, and outlet locations for deeper business analysis.
+
 # Business Outcome
 
 This project transformed raw retail sales data into meaningful business insights that can support better decision-making for Blinkit.
