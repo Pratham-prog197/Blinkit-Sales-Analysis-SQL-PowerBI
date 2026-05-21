@@ -84,7 +84,8 @@ By analyzing these KPIs and trends, the project can help businesses:
 - Improve overall operational efficiency
 
 # Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+
+![Dashboard Screenshot](BlinkIt Dashboard.png)
 
 
 The project also improved data quality by standardizing inconsistent categorical values before analysis, ensuring more accurate reporting and visualization.
